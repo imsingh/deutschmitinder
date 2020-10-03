@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Deutsch Mit Inder
+title: German with Inder
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
